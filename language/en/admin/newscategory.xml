@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<lines name="head_list" descr=""><![CDATA[Newscategory]]></lines>
+	<lines name="title_listSearch" descr=""><![CDATA[Search result]]></lines>
+	<lines name="title_list" descr=""><![CDATA[Newscategory Listing]]></lines>
+	<lines name="pageTitle_list" descr=""><![CDATA[Newscategory &raquo; Listing]]></lines>
+	
+
+	<lines name="head_add" descr=""><![CDATA[Add New Newscategory]]></lines>
+	<lines name="title_add" descr=""><![CDATA[Newscategory Information]]></lines>
+	<lines name="pageTitle_add" descr=""><![CDATA[Newscategory &raquo; Add]]></lines>
+
+	<lines name="head_edit" descr=""><![CDATA[Update Newscategory]]></lines>
+	<lines name="title_edit" descr=""><![CDATA[Newscategory Information]]></lines>
+	<lines name="pageTitle_edit" descr=""><![CDATA[Newscategory &raquo; Update]]></lines>
+
+	
+	<lines name="labelId" descr=""><![CDATA[Id]]></lines>
+	<lines name="labelImage" descr=""><![CDATA[Image]]></lines>
+	<lines name="labelName" descr=""><![CDATA[Name]]></lines>
+	<lines name="labelSlug" descr=""><![CDATA[Slug]]></lines>
+	<lines name="labelSummary" descr=""><![CDATA[Summary]]></lines>
+	<lines name="labelSeotitle" descr=""><![CDATA[Seotitle]]></lines>
+	<lines name="labelSeokeyword" descr=""><![CDATA[Seokeyword]]></lines>
+	<lines name="labelSeodescription" descr=""><![CDATA[Seodescription]]></lines>
+	<lines name="labelMetarobot" descr=""><![CDATA[Metarobot]]></lines>
+	<lines name="labelParentid" descr=""><![CDATA[Parentid]]></lines>
+	<lines name="labelCountitem" descr=""><![CDATA[Countitem]]></lines>
+	<lines name="labelDisplayorder" descr=""><![CDATA[Displayorder]]></lines>
+	<lines name="labelStatus" descr=""><![CDATA[Status]]></lines>
+	<lines name="labelDatecreated" descr=""><![CDATA[Datecreated]]></lines>
+	<lines name="labelDatemodified" descr=""><![CDATA[Datemodified]]></lines>
+	<lines name="formKeywordLabel" descr=""><![CDATA[Keyword]]></lines>
+	<lines name="formKeywordInLabel" descr=""><![CDATA[- Search keyword in -]]></lines>
+	
+	
+	<lines name="errNameRequired" descr=""><![CDATA[Name is required.]]></lines>
+	<lines name="errSlugRequired" descr=""><![CDATA[Slug is required.]]></lines>
+	<lines name="errSummaryRequired" descr=""><![CDATA[Summary is required.]]></lines>
+	<lines name="errParentidMustGreaterThanZero" descr=""><![CDATA[Parentid must be greater than zero.]]></lines>
+	<lines name="errStatusMustGreaterThanZero" descr=""><![CDATA[Status must be greater than zero.]]></lines>
+
+
+	<lines name="errAdd" descr=""><![CDATA[Error while Add Newscategory]]></lines>
+	<lines name="succAdd" descr=""><![CDATA[Newscategory had been created.]]></lines>
+	<lines name="errUpdate" descr=""><![CDATA[Error while updating Newscategory]]></lines>
+	<lines name="succUpdate" descr=""><![CDATA[Newscategory had been updated.]]></lines>
+
+	<lines name="errNotFound" descr=""><![CDATA[Newscategory not found.]]></lines>
+	<lines name="errDelete" descr=""><![CDATA[Error while deleting Newscategory with id ###id###.]]></lines>
+	<lines name="succDelete" descr=""><![CDATA[Newscategory with id ###id### had been deleted.]]></lines>
+	
+	<lines name="errNotFound" descr=""><![CDATA[Item Not Found.]]></lines>
+	
+	
+	
+	
+</data>

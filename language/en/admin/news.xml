@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<lines name="head_list" descr=""><![CDATA[News]]></lines>
+	<lines name="title_listSearch" descr=""><![CDATA[Search result]]></lines>
+	<lines name="title_list" descr=""><![CDATA[News Listing]]></lines>
+	<lines name="pageTitle_list" descr=""><![CDATA[News &raquo; Listing]]></lines>
+	
+
+	<lines name="head_add" descr=""><![CDATA[Add New News]]></lines>
+	<lines name="title_add" descr=""><![CDATA[News Information]]></lines>
+	<lines name="pageTitle_add" descr=""><![CDATA[News &raquo; Add]]></lines>
+
+	<lines name="head_edit" descr=""><![CDATA[Update News]]></lines>
+	<lines name="title_edit" descr=""><![CDATA[News Information]]></lines>
+	<lines name="pageTitle_edit" descr=""><![CDATA[News &raquo; Update]]></lines>
+
+	
+	<lines name="labelUid" descr=""><![CDATA[Uid]]></lines>
+	<lines name="labelNcid" descr=""><![CDATA[Ncid]]></lines>
+	<lines name="labelId" descr=""><![CDATA[Id]]></lines>
+	<lines name="labelImage" descr=""><![CDATA[Image]]></lines>
+	<lines name="labelTitle" descr=""><![CDATA[Title]]></lines>
+	<lines name="labelSlug" descr=""><![CDATA[Slug]]></lines>
+	<lines name="labelContent" descr=""><![CDATA[Content]]></lines>
+	<lines name="labelSource" descr=""><![CDATA[Source]]></lines>
+	<lines name="labelSeotitle" descr=""><![CDATA[Seotitle]]></lines>
+	<lines name="labelSeokeyword" descr=""><![CDATA[Seokeyword]]></lines>
+	<lines name="labelSeodescription" descr=""><![CDATA[Seodescription]]></lines>
+	<lines name="labelMetarobot" descr=""><![CDATA[Metarobot]]></lines>
+	<lines name="labelCountview" descr=""><![CDATA[Countview]]></lines>
+	<lines name="labelCountreview" descr=""><![CDATA[Countreview]]></lines>
+	<lines name="labelDisplayorder" descr=""><![CDATA[Displayorder]]></lines>
+	<lines name="labelStatus" descr=""><![CDATA[Status]]></lines>
+	<lines name="labelIpaddress" descr=""><![CDATA[Ipaddress]]></lines>
+	<lines name="labelResourceserver" descr=""><![CDATA[Resourceserver]]></lines>
+	<lines name="labelDatecreated" descr=""><![CDATA[Datecreated]]></lines>
+	<lines name="labelDatemodified" descr=""><![CDATA[Datemodified]]></lines>
+	<lines name="formKeywordLabel" descr=""><![CDATA[Keyword]]></lines>
+	<lines name="formKeywordInLabel" descr=""><![CDATA[- Search keyword in -]]></lines>
+	
+	
+	<lines name="errNcidMustGreaterThanZero" descr=""><![CDATA[Ncid must be greater than zero.]]></lines>
+	<lines name="errTitleRequired" descr=""><![CDATA[Title is required.]]></lines>
+	<lines name="errContentRequired" descr=""><![CDATA[Content is required.]]></lines>
+
+
+	<lines name="errAdd" descr=""><![CDATA[Error while Add News]]></lines>
+	<lines name="succAdd" descr=""><![CDATA[News had been created.]]></lines>
+	<lines name="errUpdate" descr=""><![CDATA[Error while updating News]]></lines>
+	<lines name="succUpdate" descr=""><![CDATA[News had been updated.]]></lines>
+
+	<lines name="errNotFound" descr=""><![CDATA[News not found.]]></lines>
+	<lines name="errDelete" descr=""><![CDATA[Error while deleting News with id ###id###.]]></lines>
+	<lines name="succDelete" descr=""><![CDATA[News with id ###id### had been deleted.]]></lines>
+	
+	<lines name="errNotFound" descr=""><![CDATA[Item Not Found.]]></lines>
+	
+	
+	
+	
+</data>
